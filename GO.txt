@@ -1,0 +1,19 @@
+// intialize mod file
+go mod init hello
+//run go program
+go run main.go
+//
+shortened
+add(x int, y int)
+to
+add(x, y int)
+-2500
+Every language has a lexer which checks grammar is coreect or syntax before compilation
+
+129000
+157000
+
+8800
+
+refernce means & ampersand	
+pointer is reference to direct memory location 
