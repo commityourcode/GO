@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//If you ever need to declare variable outside function use var otherwise walrus operator
 var JwtToken string = "xxxxx"
 
 const PI float64 = 3.14
@@ -30,6 +31,7 @@ func main() {
 
 	//No var style walrus operator
 	numberofUser := 3000
+	numberofUser = 3100
 	fmt.Println(numberofUser)
 	fmt.Printf("Variable is of Type: %T \n", numberofUser)
 
